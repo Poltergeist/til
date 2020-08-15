@@ -8,12 +8,20 @@ apparently inspired by Josh Branchaud's [TIL collection][2]. And I did find a fi
 action by Casey Flynn [Github action market place][3]
 
 
-_0 TILs and counting..._
+_1 TILs and counting..._
 
 ---
 
+### 1 most recent TILs
+
+- [Get all logs for a deployment in Kubernetes](kubernetes/get-all-logs-for-deployment.md) - Sat Aug 15 21:19:43 2020 +0200
+
 ### Categories
 
+- [kubernetes](#kubernetes)
+
+### [kubernetes](#kubernetes)
+- [Get all logs for a deployment in Kubernetes](kubernetes/get-all-logs-for-deployment.md)
 
 [1]: https://simonwillison.net/2020/Apr/20/self-rewriting-readme/
 [2]: https://github.com/jbranchaud/til
