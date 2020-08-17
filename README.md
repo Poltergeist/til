@@ -8,12 +8,13 @@ apparently inspired by Josh Branchaud's [TIL collection][2]. And I did find a fi
 action by Casey Flynn [Github action market place][3]
 
 
-_1 TILs and counting..._
+_2 TILs and counting..._
 
 ---
 
-### 1 most recent TILs
+### 2 most recent TILs
 
+- [Kubectl Explain Resource](kubernetes/kubectl-explain-resource.md) - Mon Aug 17 21:12:32 2020 +0200
 - [Get all logs for a deployment in Kubernetes](kubernetes/get-all-logs-for-deployment.md) - Sat Aug 15 21:19:43 2020 +0200
 
 ### Categories
@@ -22,6 +23,7 @@ _1 TILs and counting..._
 
 ### [kubernetes](#kubernetes)
 - [Get all logs for a deployment in Kubernetes](kubernetes/get-all-logs-for-deployment.md)
+- [Kubectl Explain Resource](kubernetes/kubectl-explain-resource.md)
 
 [1]: https://simonwillison.net/2020/Apr/20/self-rewriting-readme/
 [2]: https://github.com/jbranchaud/til
