@@ -8,14 +8,14 @@ apparently inspired by Josh Branchaud's [TIL collection][2]. And I did find a fi
 action by Casey Flynn [Github action market place][3]
 
 
-_3 TILs and counting..._
+_4 TILs and counting..._
 
 ---
 
 ### 2 most recent TILs
 
+- [Can you run a database on Kubernetes?](kubernetes/database-on-kube.md) - Mon Aug 17 22:31:18 2020 +0200
 - [> If you want people to do things right, make it hard for them to do wrong.](quotes/things-right.md) - Mon Aug 17 22:20:59 2020 +0200
-- [Kubectl Explain Resource](kubernetes/kubectl-explain-resource.md) - Mon Aug 17 21:12:32 2020 +0200
 
 ### Categories
 
@@ -23,6 +23,7 @@ _3 TILs and counting..._
 - [quotes](#quotes)
 
 ### [kubernetes](#kubernetes)
+- [Can you run a database on Kubernetes?](kubernetes/database-on-kube.md)
 - [Get all logs for a deployment in Kubernetes](kubernetes/get-all-logs-for-deployment.md)
 - [Kubectl Explain Resource](kubernetes/kubectl-explain-resource.md)
 
