@@ -8,14 +8,14 @@ apparently inspired by Josh Branchaud's [TIL collection][2]. And I did find a fi
 action by Casey Flynn [Github action market place][3]
 
 
-_4 TILs and counting..._
+_5 TILs and counting..._
 
 ---
 
 ### 2 most recent TILs
 
+- [> "We replaced our monolith with micro services so that every outage could be more like a murder mystery."](quotes/murder_mystery.md) - Fri Aug 21 09:07:38 2020 +0200
 - [Can you run a database on Kubernetes?](kubernetes/database-on-kube.md) - Mon Aug 17 22:31:18 2020 +0200
-- [> If you want people to do things right, make it hard for them to do wrong.](quotes/things-right.md) - Mon Aug 17 22:20:59 2020 +0200
 
 ### Categories
 
@@ -28,6 +28,7 @@ _4 TILs and counting..._
 - [Kubectl Explain Resource](kubernetes/kubectl-explain-resource.md)
 
 ### [quotes](#quotes)
+- [> "We replaced our monolith with micro services so that every outage could be more like a murder mystery."](quotes/murder_mystery.md)
 - [> If you want people to do things right, make it hard for them to do wrong.](quotes/things-right.md)
 
 [1]: https://simonwillison.net/2020/Apr/20/self-rewriting-readme/
