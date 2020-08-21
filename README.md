@@ -29,7 +29,7 @@ _5 TILs and counting..._
 
 ### [quotes](#quotes)
 - [> "We replaced our monolith with micro services so that every outage could be more like a murder mystery."](quotes/murder_mystery.md)
-- [> If you want people to do things right, make it hard for them to do wrong.](quotes/things-right.md)
+- [> "If you want people to do things right, make it hard for them to do wrong."](quotes/things-right.md)
 
 [1]: https://simonwillison.net/2020/Apr/20/self-rewriting-readme/
 [2]: https://github.com/jbranchaud/til
