@@ -8,19 +8,20 @@ apparently inspired by Josh Branchaud's [TIL collection][2]. And I did find a fi
 action by Casey Flynn [Github action market place][3]
 
 
-_5 TILs and counting..._
+_6 TILs and counting..._
 
 ---
 
 ### 2 most recent TILs
 
+- [Inplace replace windows line endings with sed](sed/change-line-endings-inline.md) - Sat Aug 22 21:28:17 2020 +0200
 - [> "We replaced our monolith with micro services so that every outage could be more like a murder mystery."](quotes/murder_mystery.md) - Fri Aug 21 09:07:38 2020 +0200
-- [Can you run a database on Kubernetes?](kubernetes/database-on-kube.md) - Mon Aug 17 22:31:18 2020 +0200
 
 ### Categories
 
 - [kubernetes](#kubernetes)
 - [quotes](#quotes)
+- [sed](#sed)
 
 ### [kubernetes](#kubernetes)
 - [Can you run a database on Kubernetes?](kubernetes/database-on-kube.md)
@@ -30,6 +31,9 @@ _5 TILs and counting..._
 ### [quotes](#quotes)
 - [> "We replaced our monolith with micro services so that every outage could be more like a murder mystery."](quotes/murder_mystery.md)
 - [> "If you want people to do things right, make it hard for them to do wrong."](quotes/things-right.md)
+
+### [sed](#sed)
+- [Inplace replace windows line endings with sed](sed/change-line-endings-inline.md)
 
 [1]: https://simonwillison.net/2020/Apr/20/self-rewriting-readme/
 [2]: https://github.com/jbranchaud/til
