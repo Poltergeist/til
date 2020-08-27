@@ -8,20 +8,24 @@ apparently inspired by Josh Branchaud's [TIL collection][2]. And I did find a fi
 action by Casey Flynn [Github action market place][3]
 
 
-_6 TILs and counting..._
+_7 TILs and counting..._
 
 ---
 
 ### 2 most recent TILs
 
+- [Lian li - Kubernetes won't save you](great-talks/cloud-native_kubernetes-wont-save-you.md) - Thu Aug 27 06:29:27 2020 +0200
 - [Inplace replace windows line endings with sed](sed/change-line-endings-inline.md) - Sat Aug 22 21:28:17 2020 +0200
-- [> "We replaced our monolith with micro services so that every outage could be more like a murder mystery."](quotes/murder_mystery.md) - Fri Aug 21 09:07:38 2020 +0200
 
 ### Categories
 
+- [great-talks](#great-talks)
 - [kubernetes](#kubernetes)
 - [quotes](#quotes)
 - [sed](#sed)
+
+### [great-talks](#great-talks)
+- [Lian li - Kubernetes won't save you](great-talks/cloud-native_kubernetes-wont-save-you.md)
 
 ### [kubernetes](#kubernetes)
 - [Can you run a database on Kubernetes?](kubernetes/database-on-kube.md)
