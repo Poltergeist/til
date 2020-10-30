@@ -8,14 +8,14 @@ apparently inspired by Josh Branchaud's [TIL collection][2]. And I did find a fi
 action by Casey Flynn [Github action market place][3]
 
 
-_10 TILs and counting..._
+_11 TILs and counting..._
 
 ---
 
 ### 2 most recent TILs
 
+- [Read a Secret from kubernetes](kubernetes/read-secrets-with-kubectl.md) - Fri Oct 30 10:43:00 2020 +0100
 - [> The most damaging phrase in the language is “We’ve always done it this way!” — Rear Admiral Grace Murray Hopper in an interview in Information Week, March 9, 1987, p. 52](quotes/grace-hopper.md) - Fri Oct 30 10:42:09 2020 +0100
-- [Lian li - Kubernetes won't save you](great-talks/cloud-native_kubernetes-wont-save-you.md) - Thu Aug 27 06:29:27 2020 +0200
 
 ### Categories
 
@@ -36,6 +36,7 @@ _10 TILs and counting..._
 - [Can you run a database on Kubernetes?](kubernetes/database-on-kube.md)
 - [Get all logs for a deployment in Kubernetes](kubernetes/get-all-logs-for-deployment.md)
 - [Kubectl Explain Resource](kubernetes/kubectl-explain-resource.md)
+- [Read a Secret from kubernetes](kubernetes/read-secrets-with-kubectl.md)
 
 ### [quotes](#quotes)
 - [> The most damaging phrase in the language is “We’ve always done it this way!” — Rear Admiral Grace Murray Hopper in an interview in Information Week, March 9, 1987, p. 52](quotes/grace-hopper.md)
