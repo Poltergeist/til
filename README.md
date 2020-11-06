@@ -8,7 +8,7 @@ apparently inspired by Josh Branchaud's [TIL collection][2]. And I did find a fi
 action by Casey Flynn [Github action market place][3]
 
 
-_11 TILs and counting..._
+_12 TILs and counting..._
 
 ---
 
@@ -19,11 +19,15 @@ _11 TILs and counting..._
 
 ### Categories
 
+- [git](#git)
 - [great-talks](#great-talks)
 - [istion](#istion)
 - [kubernetes](#kubernetes)
 - [quotes](#quotes)
 - [sed](#sed)
+
+### [git](#git)
+- [Remove change from last git commit](git/remove-change-from-last-git-commit.md)
 
 ### [great-talks](#great-talks)
 - [Lian li - Kubernetes won't save you](great-talks/cloud-native_kubernetes-wont-save-you.md)
