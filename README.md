@@ -8,7 +8,7 @@ apparently inspired by Josh Branchaud's [TIL collection][2]. And I did find a fi
 action by Casey Flynn [Github action market place][3]
 
 
-_12 TILs and counting..._
+_13 TILs and counting..._
 
 ---
 
@@ -27,6 +27,7 @@ _12 TILs and counting..._
 - [sed](#sed)
 
 ### [git](#git)
+- [Cheatsheet for difficult cases from gitlab](git/cheatsheet-for-difficult-cases.md)
 - [Remove change from last git commit](git/remove-change-from-last-git-commit.md)
 
 ### [great-talks](#great-talks)
