@@ -8,14 +8,14 @@ apparently inspired by Josh Branchaud's [TIL collection][2]. And I did find a fi
 action by Casey Flynn [Github action market place][3]
 
 
-_13 TILs and counting..._
+_14 TILs and counting..._
 
 ---
 
 ### 2 most recent TILs
 
+- [Idealcast from Gene Kim](podscast/idealcast.md) - Mon Nov 23 17:06:51 2020 +0100
 - [Read a Secret from kubernetes](kubernetes/read-secrets-with-kubectl.md) - Fri Oct 30 10:43:00 2020 +0100
-- [> The most damaging phrase in the language is “We’ve always done it this way!” — Rear Admiral Grace Murray Hopper in an interview in Information Week, March 9, 1987, p. 52](quotes/grace-hopper.md) - Fri Oct 30 10:42:09 2020 +0100
 
 ### Categories
 
@@ -23,6 +23,7 @@ _13 TILs and counting..._
 - [great-talks](#great-talks)
 - [istion](#istion)
 - [kubernetes](#kubernetes)
+- [podscast](#podscast)
 - [quotes](#quotes)
 - [sed](#sed)
 
@@ -42,6 +43,9 @@ _13 TILs and counting..._
 - [Get all logs for a deployment in Kubernetes](kubernetes/get-all-logs-for-deployment.md)
 - [Kubectl Explain Resource](kubernetes/kubectl-explain-resource.md)
 - [Read a Secret from kubernetes](kubernetes/read-secrets-with-kubectl.md)
+
+### [podscast](#podscast)
+- [Idealcast from Gene Kim](podscast/idealcast.md)
 
 ### [quotes](#quotes)
 - [> The most damaging phrase in the language is “We’ve always done it this way!” — Rear Admiral Grace Murray Hopper in an interview in Information Week, March 9, 1987, p. 52](quotes/grace-hopper.md)
