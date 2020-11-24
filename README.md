@@ -14,14 +14,14 @@ _14 TILs and counting..._
 
 ### 2 most recent TILs
 
+- [Add Request Headers with a virtual service](istio/virtual-service-add-headers.md) - Tue Nov 24 08:34:40 2020 +0100
 - [Idealcast from Gene Kim](podscast/idealcast.md) - Mon Nov 23 17:06:51 2020 +0100
-- [Read a Secret from kubernetes](kubernetes/read-secrets-with-kubectl.md) - Fri Oct 30 10:43:00 2020 +0100
 
 ### Categories
 
 - [git](#git)
 - [great-talks](#great-talks)
-- [istion](#istion)
+- [istio](#istio)
 - [kubernetes](#kubernetes)
 - [podscast](#podscast)
 - [quotes](#quotes)
@@ -35,8 +35,8 @@ _14 TILs and counting..._
 - [Lian li - Kubernetes won't save you](great-talks/cloud-native_kubernetes-wont-save-you.md)
 - [From Infrastructure Bro to Hacker Chick](great-talks/from-infrastructure-bro-to-hacker-chick.md)
 
-### [istion](#istion)
-- [Add Request Headers with a virtual service](istion/virtual-service-add-headers.md)
+### [istio](#istio)
+- [Add Request Headers with a virtual service](istio/virtual-service-add-headers.md)
 
 ### [kubernetes](#kubernetes)
 - [Can you run a database on Kubernetes?](kubernetes/database-on-kube.md)
