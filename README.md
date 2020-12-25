@@ -8,17 +8,18 @@ apparently inspired by Josh Branchaud's [TIL collection][2]. And I did find a fi
 action by Casey Flynn [Github action market place][3]
 
 
-_14 TILs and counting..._
+_15 TILs and counting..._
 
 ---
 
 ### 2 most recent TILs
 
+- [Hexagon grid logic](cs/hexagon-grid.md) - Fri Dec 25 22:43:05 2020 +0100
 - [Add Request Headers with a virtual service](istio/virtual-service-add-headers.md) - Tue Nov 24 08:34:40 2020 +0100
-- [Idealcast from Gene Kim](podscast/idealcast.md) - Mon Nov 23 17:06:51 2020 +0100
 
 ### Categories
 
+- [cs](#cs)
 - [git](#git)
 - [great-talks](#great-talks)
 - [istio](#istio)
@@ -26,6 +27,9 @@ _14 TILs and counting..._
 - [podscast](#podscast)
 - [quotes](#quotes)
 - [sed](#sed)
+
+### [cs](#cs)
+- [Hexagon grid logic](cs/hexagon-grid.md)
 
 ### [git](#git)
 - [Cheatsheet for difficult cases from gitlab](git/cheatsheet-for-difficult-cases.md)
