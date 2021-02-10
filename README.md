@@ -8,14 +8,14 @@ apparently inspired by Josh Branchaud's [TIL collection][2]. And I did find a fi
 action by Casey Flynn [Github action market place][3]
 
 
-_16 TILs and counting..._
+_17 TILs and counting..._
 
 ---
 
 ### 2 most recent TILs
 
+- [How to Define a Goal](methodic/how-to-define-a-goal.md) - Wed Feb 10 15:23:51 2021 +0100
 - [Hexagon grid logic](cs/hexagon-grid.md) - Fri Dec 25 22:43:05 2020 +0100
-- [Add Request Headers with a virtual service](istio/virtual-service-add-headers.md) - Tue Nov 24 08:34:40 2020 +0100
 
 ### Categories
 
@@ -25,6 +25,7 @@ _16 TILs and counting..._
 - [istio](#istio)
 - [kaniko](#kaniko)
 - [kubernetes](#kubernetes)
+- [methodic](#methodic)
 - [podscast](#podscast)
 - [quotes](#quotes)
 - [sed](#sed)
@@ -51,6 +52,9 @@ _16 TILs and counting..._
 - [Get all logs for a deployment in Kubernetes](kubernetes/get-all-logs-for-deployment.md)
 - [Kubectl Explain Resource](kubernetes/kubectl-explain-resource.md)
 - [Read a Secret from kubernetes](kubernetes/read-secrets-with-kubectl.md)
+
+### [methodic](#methodic)
+- [How to Define a Goal](methodic/how-to-define-a-goal.md)
 
 ### [podscast](#podscast)
 - [Idealcast from Gene Kim](podscast/idealcast.md)
