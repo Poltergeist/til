@@ -8,14 +8,14 @@ apparently inspired by Josh Branchaud's [TIL collection][2]. And I did find a fi
 action by Casey Flynn [Github action market place][3]
 
 
-_17 TILs and counting..._
+_18 TILs and counting..._
 
 ---
 
 ### 2 most recent TILs
 
+- [How to split a Git commit and preserve message using ORIG_HEAD](git/split-git-commit-with-orig-head.md) - Thu Oct 28 15:39:35 2021 +0200
 - [How to Define a Goal](methodic/how-to-define-a-goal.md) - Wed Feb 10 15:23:51 2021 +0100
-- [Hexagon grid logic](cs/hexagon-grid.md) - Fri Dec 25 22:43:05 2020 +0100
 
 ### Categories
 
@@ -36,6 +36,7 @@ _17 TILs and counting..._
 ### [git](#git)
 - [Cheatsheet for difficult cases from gitlab](git/cheatsheet-for-difficult-cases.md)
 - [Remove change from last git commit](git/remove-change-from-last-git-commit.md)
+- [How to split a Git commit and preserve message using ORIG_HEAD](git/split-git-commit-with-orig-head.md)
 
 ### [great-talks](#great-talks)
 - [Lian li - Kubernetes won't save you](great-talks/cloud-native_kubernetes-wont-save-you.md)
